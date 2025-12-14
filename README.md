@@ -41,10 +41,10 @@ This project demonstrates core Python concepts such as loops, functions, conditi
 
 **Future Enhancements**
 
-*Scientific operations (square root, power, trigonometry)
+* Scientific operations (square root, power, trigonometry)
 
-*Save history to file (TXT / CSV)
+* Save history to file (TXT / CSV)
 
-*GUI version using Tkinter
+* GUI version using Tkinter
 
-*Input validation for non-numeric values
+* Input validation for non-numeric values
